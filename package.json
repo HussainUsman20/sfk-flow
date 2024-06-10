@@ -317,6 +317,11 @@
     "webpack-cli": "5.1.4",
     "webpack-ignore-dynamic-require": "1.0.0"
   },
+
+  "engines": {
+    "node": "20.x"
+  },
+  
   "nx": {
     "includedScripts": []
   }
